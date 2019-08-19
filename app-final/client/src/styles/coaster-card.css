@@ -1,0 +1,30 @@
+.coaster-card {
+    border: 1px solid rgba(0,0,0,.06);
+    margin-bottom: 20px;
+}
+
+.coaster-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.coaster-card h4 {
+    margin-top: 15px
+}
+
+.coaster-card h4, .coaster-card p {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.coaster-card p {
+    font-size: .8em
+}
+
+
+.coaster-card .btn {
+    display: block;
+    margin: 0 20px 10px;
+}
+
